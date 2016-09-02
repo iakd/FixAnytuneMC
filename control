@@ -1,0 +1,9 @@
+Package: de.iakdev.fixanytunemc
+Name: FixAnytuneMC
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Fix Anytune Media Controls
+Maintainer: iakd
+Author: iakd
+Section: Tweaks
